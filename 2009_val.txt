@@ -1,0 +1,8 @@
+/home/workspace/heyinan/yolo3/keras-yolo3/VOCdevkit/VOC2009/JPEGImages/gong-029.jpg 682,358,947,625,3
+/home/workspace/heyinan/yolo3/keras-yolo3/VOCdevkit/VOC2009/JPEGImages/gpnggg-175.jpg 488,212,779,528,3
+/home/workspace/heyinan/yolo3/keras-yolo3/VOCdevkit/VOC2009/JPEGImages/input6-039.jpg 82,131,267,388,2
+/home/workspace/heyinan/yolo3/keras-yolo3/VOCdevkit/VOC2009/JPEGImages/gong-041.jpg 513,379,784,610,3
+/home/workspace/heyinan/yolo3/keras-yolo3/VOCdevkit/VOC2009/JPEGImages/gong-063.jpg 502,332,808,609,3
+/home/workspace/heyinan/yolo3/keras-yolo3/VOCdevkit/VOC2009/JPEGImages/test-058.jpg 107,255,289,416,2
+/home/workspace/heyinan/yolo3/keras-yolo3/VOCdevkit/VOC2009/JPEGImages/test-060.jpg 115,266,290,416,2
+/home/workspace/heyinan/yolo3/keras-yolo3/VOCdevkit/VOC2009/JPEGImages/test-155.jpg 86,207,292,416,5
