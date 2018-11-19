@@ -1,6 +1,7 @@
 ## Detect the pose of hand-washing
 Use yolo_video.py to detect.
 Change the yolo.py to calculate the time of hand-washing.
+[![](https://github.com/yinanhe/keras-yolo3/blob/master/hand.png?raw=true)](https://github.com/yinanhe/keras-yolo3/blob/master/hand.png?raw=true)
 ```
 以下是原作者的MD
 ```
